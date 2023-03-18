@@ -46,7 +46,7 @@ BinarySearchIterative(int [] arr){
       private  void printArray() {
             System.out.println("");
           for(int element: this.arr){
-              System.out.print(element);
+              System.out.print(element+"**");
     }
           System.out.println("");
     
